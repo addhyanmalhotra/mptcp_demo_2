@@ -10,6 +10,6 @@
    `sudo ./use_mptcp.sh ip netns exec mptcp-client iperf -c 10.0.0.1`
  - Examine tcpdump on link0 (blue-client) <br>
    `sudo ip netns exec mptcp-client tcpdump -v -i blue-client`
- - Examine tcpdump on link0 (red-client) <br>
+ - Examine tcpdump on link1 (red-client) <br>
    `sudo ip netns exec mptcp-client tcpdump -v -i red-client`
    
