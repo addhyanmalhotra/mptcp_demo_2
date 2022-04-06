@@ -1,4 +1,4 @@
-# Setup Neetwork NS and Subflows
+# Setup Network NS and Subflows
  - `./setup-ns.sh`
  - `./config_paths.sh`
 
