@@ -14,3 +14,5 @@
    `sudo ./use_mptcp.sh ip netns exec mptcp-client iperf -c 10.0.0.1`
    
 Note: Instead of using multiple terminals/tabs processess can be run in background
+
+Demo: Adapted from https://developers.redhat.com/articles/2021/10/20/multipath-tcp-rhel-8-one-many-subflows#working_with_multiple_paths
