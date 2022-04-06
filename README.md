@@ -13,3 +13,4 @@
  - Finally in a 4th terminal run iperf client on mptcp-client netns <br>
    `sudo ./use_mptcp.sh ip netns exec mptcp-client iperf -c 10.0.0.1`
    
+Note: Instead of using multiple terminals/tabs processess can be run in background
